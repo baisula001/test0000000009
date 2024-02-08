@@ -1,10 +1,9 @@
 package org.example;
 
 /**
- * @Auther: willson2008
- * @Date: 08/02/2024 - 02 - 08 - 16:14
- * @Description: org.example
- * @Version: 1.0
+ *
+ * main function;
+ *
  */
 public class Main {
     public static void main(String[] args) {
